@@ -1,12 +1,8 @@
-# Setup
+# Example
 
-- docker-compose up
-
-# Deploy
-
-- gh-pages -d build
-
-
+- backend heroku https://stock-demo.herokuapp.com/
+- backend https://github.com/niten2/stock-backend
+- demo
 
 # Тестовое задание RoR
 # Задача
