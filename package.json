@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/niten2/stock-frontend",
+  "homepage": "https://niten2.github.io/stock-frontend",
   "dependencies": {
     "apollo-fetch": "^0.6.0",
     "apollo-test-utils": "^0.3.2",
