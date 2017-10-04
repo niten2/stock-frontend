@@ -4,9 +4,25 @@
   "private": false,
   "homepage": "https://github.com/niten2/stock",
   "dependencies": {
+    "apollo-fetch": "^0.6.0",
+    "apollo-test-utils": "^0.3.2",
+    "chart.js": "^2.7.0",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.0.0",
+    "history": "^4.7.2",
+    "ramda": "^0.24.1",
     "react": "^16.0.0",
+    "react-apollo": "^1.4.16",
     "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14"
+    "react-notification-system-redux": "^1.1.6",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^5.0.0-alpha.6",
+    "react-scripts": "1.0.14",
+    "react-spinkit": "^3.0.0",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0",
+    "redux-thunk": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
