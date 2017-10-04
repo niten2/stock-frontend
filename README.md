@@ -1,8 +1,8 @@
 # Example
 
+- demo https://niten2.github.io/stock-frontend/
 - backend heroku https://stock-demo.herokuapp.com/
-- backend https://github.com/niten2/stock-backend
-- demo
+- backend git https://github.com/niten2/stock-backend
 
 # Тестовое задание RoR
 # Задача
