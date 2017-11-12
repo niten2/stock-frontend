@@ -1,6 +1,5 @@
 FROM node:8.8.1
 
-# update and install dependencies
 RUN apt-get update -qq
 
 # install zsh
@@ -10,5 +9,7 @@ RUN wget -O /root/.zshrc https://raw.githubusercontent.com/niten2/dotfiles/maste
 
 RUN mkdir -p /app
 WORKDIR /app
+
+VOLUME . /app
 
 RUN npm install
